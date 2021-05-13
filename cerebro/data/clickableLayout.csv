@@ -1,0 +1,47 @@
+ID,Name,State,PNGFilename,Text,x,y,visible
+0,enter,Splash,,ENTER,515,550,yes
+1,cont1,Intro,,CONTINUE,515,550,yes
+2,cont2,IntroCont,,CONTINUE,515,550,yes
+3,cont3,characters,,CONTINUE,515,610,yes
+4,chooseus,choose,,U.S GOVERNMENT,880,500,yes
+5,choosept,choose,,PSYCHOLOGISTS,150,500,yes
+6,choosetsa,choose,,TSA,515,500,yes
+7,choosenone,choose,,NO ONE,515,600,yes
+8,ptstart,ptchoice,,START,515,560,yes
+9,usstart,uschoice,,START,515,560,yes
+10,tsastart,tsachoice,,START,515,560,yes
+11,ptq1yes,ptq1,,GIVE TO SCIENTISTS,325,600,yes
+12,ptq1no,ptq1,,SEE OTHER OPTIONS,753,600,yes
+13,ptq2yes,ptq2,,YES,325,600,yes
+14,ptq2no,ptq2,,"NO, LET'S RETHINK",753,600,yes
+15,ptendnext,ptend,,NEXT,515,635,yes
+16,usq1yes,usq1,,I AM CONSIDERING,325,600,yes
+17,usq1no,usq1,,NOT INTERESTED,753,600,yes
+18,usq2yes,usq2,,SHIP OUT CEREBRO,325,600,yes
+19,usq2no,usq2,,NO LONGER INTERESTED,753,600,yes
+20,usendnext,usend,,NEXT,515,635,yes
+21,tsaq1yes,tsaq1,,"YES, I WOULD",325,600,yes
+22,tsaq1no,tsaq1,,SEE OTHER OPTIONS,753,600,yes
+23,tsaq2yes,tsaq2,,LET'S START WORKING,325,600,yes
+24,tsaq2no,tsaq2,,I NEED TO RETHINK,753,600,yes
+25,tsaendnext,tsaend,,NEXT,515,635,yes
+26,noneend,nooneend,,SELF-DESTRUCT,515,550,yes
+27,restart,endgame,,RESTART,515,550,yes
+28,tsaq3yes,tsaq3,,BEGIN WORKING W/TSA,325,600,yes
+29,tsaq3no,tsaq3,,SEE OTHER OPTIONS,753,600,yes
+30,ptq3yes,ptq3,,"YES, LET'S GET TO WORK",325,600,yes
+31,ptq3no,ptq3,,SEE OTHER OPTIONS,753,600,yes
+32,usq3yes,usq3,,GIVE ME THE MONEY,325,600,yes
+33,usq3no,usq3,,DECLINE OFFER,753,600,yes
+34,ptusq1yes,ptusq1,,I AM CONSIDERING,325,600,yes
+35,ptusq1no,ptusq1,,NOT INTERESTED,753,600,yes
+36,ptustsaq1yes,ptustsaq1,,"YES, I WOULD",325,600,yes
+37,ptustsaq1no,ptustsaq1,,SEE OTHER OPTIONS,753,600,yes
+38,ustsaq1yes,ustsaq1,,"YES, I WOULD",325,600,yes
+39,ustsaq1no,ustsaq1,,SEE OTHER OPTIONS,753,600,yes
+40,ustsaptq1yes,ustsaptq1,,GIVE TO SCIENTISTS,325,600,yes
+41,ustsaptq1no,ustsaptq1,,SEE OTHER OPTIONS,753,600,yes
+42,tsaptq1yes,tsaptq1,,GIVE TO SCIENTISTS,325,600,yes
+43,tsaptq1no,tsaptq1,,SEE OTHER OPTIONS,753,600,yes
+44,tsaptusq1yes,tsaptusq1,,I AM CONSIDERING,325,600,yes
+45,tsaptusq1no,tsaptusq1,,NOT INTERESTED,753,600,yes
